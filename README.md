@@ -13,10 +13,10 @@ Create solutions no one has thought of — automate the un-automated — and bui
 
 ### 🔧 Tech Arsenal:
 - **DevOps**: GitHub Actions, Jenkins, Docker, Kubernetes, Terraform
-- **Cloud**: AWS (in progress), OpenTofu, LocalStack, Minikube, etc.
+- **Cloud**: AWS, OpenTofu, LocalStack, Minikube, etc.
 - **Infra as Code**: Terraform, Helm, Ansible
 - **Monitoring**: Grafana, Prometheus, Loki
-- **Languages**: Bash, Python, YAML, Go (learning)
+- **Languages**: Bash, Python, Javascript, YAML, Go (learning)
 - **AI Tools**: OpenAI API, LangChain (experimental MVPs)
 
 ---
