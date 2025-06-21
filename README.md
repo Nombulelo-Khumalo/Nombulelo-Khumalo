@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @Nombulelo-Khumalo
-- 👀 I’m interested in learning something new everyday
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on devops or cloud projects
-- 📫 How to reach me kumzalelo23@gmail.com
-- 😄 Pronouns: her
-- ⚡ Fun fact: ...
+<h1 align="center">Hi, I'm Nombulelo "Lelo" Khumalo 👋</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud Builder | Futuristic Innovator</h3>
 
-<!---
-Nombulelo-Khumalo/Nombulelo-Khumalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🧠 **Current Focus**:  
+I’m on a mission to become a world-renowned DevOps Engineer by building futuristic, real-world, cloud-native tools and MVPs.  
+
+🌍 **Vision**:  
+Create solutions no one has thought of — automate the un-automated — and build scalable, secure cloud systems with a purpose.
+
+---
+
+### 🔧 Tech Arsenal:
+- **DevOps**: GitHub Actions, Jenkins, Docker, Kubernetes, Terraform
+- **Cloud**: AWS (in progress), OpenTofu, LocalStack, Minikube, etc.
+- **Infra as Code**: Terraform, Helm, Ansible
+- **Monitoring**: Grafana, Prometheus, Loki
+- **Languages**: Bash, Python, YAML, Go (learning)
+- **AI Tools**: OpenAI API, LangChain (experimental MVPs)
+
+---
+
+### 📦 Sprint in Progress (2025):
+🛠️ **DevOps & AWS Mastery Sprint**  
+🚧 Building: MVPs, Interview Prep Projects, CI/CD Pipelines  
+🌐 Tracking Daily Progress & MVPs Here
+
+---
+
+### 📬 Connect with Me:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nombulelo-khumalo-97821b315/)
+- 💻 [GitHub](https://github.com/Nombulelo-Khumalo)
+- 📩 kumzalelo23@gmail.com
+
+---
+
+🔗 Stay tuned as I build, document, and launch the next generation of DevOps products!
