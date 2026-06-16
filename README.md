@@ -21,13 +21,6 @@ Create solutions no one has thought of — automate the un-automated — and bui
 
 ---
 
-### 📦 Sprint in Progress (2025):
-🛠️ **DevOps & AWS Mastery Sprint**  
-🚧 Building: MVPs, Interview Prep Projects, CI/CD Pipelines  
-🌐 Tracking Daily Progress & MVPs Here
-
----
-
 ### 📬 Connect with Me:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nombulelo-khumalo-97821b315/)
 - 💻 [GitHub](https://github.com/Nombulelo-Khumalo)
